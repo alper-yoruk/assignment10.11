@@ -1,24 +1,12 @@
-# assignment
+# Interview Assignment 10.11.2020
 
-## Project setup
-```
-npm install
-```
+# To run the project
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Clone the repository 
+`git clone https://github.com/alper-yoruk/assignment10.11.git`
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Setup the project
+`npm install`
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Run
+`npm run serve`
